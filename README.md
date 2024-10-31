@@ -23,14 +23,3 @@ Enter the size of the array: 5 Enter element 1: 10 Enter element 2: 3 Enter elem
 
 Largest number: 25 Smallest number: 3
 
-## Setup and Execution
-
-1. Clone or download this project to your computer.
-2. If Python is not already installed, download and install [Python](https://www.python.org/downloads/).
-3. Open a terminal or command prompt and run the following command:
-
-   ```bash
-   python find_largest_smallest.py
-   ```
-
-4. When prompted, enter the size of the array and its elements.
